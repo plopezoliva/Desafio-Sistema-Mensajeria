@@ -12,7 +12,7 @@
 }
 
 
-    .menu {
+.menu {
     margin: 0 auto;
     padding: 0;
     display: flex;
@@ -94,7 +94,7 @@ border-top: 2px solid cornflowerblue;
     align-items: center;
     width: 80%;
     margin: auto;
-    /* flex-direction:column; */
+   
     
 }
 
@@ -127,17 +127,68 @@ padding: 0px 10px;
 .foto-chat2{
     width: 50px;
     border-radius: 50%;
-     justify-content: left;
+    justify-content: center;
+    align-items: center;
       
     
 }
 .opcion-chat2{
     padding: 20px 0px;
-    text-align: center;
     
     
 }
+.container-chat3{
+    display: flex;
+    justify-content: left;
+    
+}
+.foto-chat3{
+    width: 50px;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+      
+    
+}
+.opcion-chat3{
+    padding: 20px 0px;
+    
+}
+.container-chat4{
+    display: flex;
+    justify-content: left;
+    
+}
+.foto-chat4{
+    width: 50px;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+      
+    
+}
+.opcion-chat4{
+    padding: 20px 0px;
+    
+}
 
+.container-chat5{
+    display: flex;
+    justify-content: left;
+    
+}
+.foto-chat5{
+    width: 50px;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+      
+    
+}
+.opcion-chat5{
+    padding: 20px 0px;
+    
+}
 /* seccion Logo */
 .seccion-principal{
     display: flex;
