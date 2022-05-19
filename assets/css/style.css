@@ -9,6 +9,7 @@
     width: 20em;
     background-color: aqua;
     min-height: 100vh;
+    
 }
 
 
@@ -76,7 +77,7 @@ align-items: center;
     border: none;
     background-color:blueviolet;
     color: #fff;
-    padding: 10px 60px;
+    padding: 20px 60px;
 
 
 }
@@ -186,6 +187,57 @@ padding: 0px 10px;
     
 }
 .opcion-chat5{
+    padding: 20px 0px;
+    
+}
+.container-chat6{
+    display: flex;
+    justify-content: left;
+    
+}
+.foto-chat6{
+    width: 50px;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+      
+    
+}
+.opcion-chat6{
+    padding: 20px 0px;
+    
+}
+.container-chat7{
+    display: flex;
+    justify-content: left;
+    
+}
+.foto-chat7{
+    width: 50px;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+      
+    
+}
+.opcion-chat7{
+    padding: 20px 0px;
+    
+}
+.container-chat8{
+    display: flex;
+    justify-content: left;
+    
+}
+.foto-chat8{
+    width: 50px;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+      
+    
+}
+.opcion-chat8{
     padding: 20px 0px;
     
 }
