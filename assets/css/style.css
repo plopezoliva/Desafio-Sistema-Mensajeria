@@ -12,10 +12,11 @@ html, body{
     align-items: center;
     flex-direction: column;
     width: 20em;
-    /* background-color: rgba(89, 255, 0, 0.484); */
     min-height: 100vh;
     border-right: 2px solid cornflowerblue;
-    
+    border-left: 2px solid cornflowerblue;
+    border-top: 2px solid cornflowerblue;
+    border-bottom:2px solid cornflowerblue;
 }
 
 
